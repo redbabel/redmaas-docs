@@ -1,1 +1,1 @@
-See https://github.com/redbabel/redmaas-docs/wiki for more infos
+See https://github.com/redbabel/redmongo-docs/wiki for more infos
